@@ -2,7 +2,7 @@
 
 ```bash
 
-
+docker pull registry
 
 run -d -p 5000:5000 registry
 
